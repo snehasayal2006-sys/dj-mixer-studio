@@ -1,0 +1,11 @@
+# Text file normalization
+
+build/* linguist-vendored
+
+go.sum linguist-generated
+*.ts linguist-detectable
+*.min.js linguist-generated
+Cargo.lock linguist-generated
+public/index.html linguist-vendored
+
+# eof 6b83e532
